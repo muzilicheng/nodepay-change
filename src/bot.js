@@ -40,7 +40,6 @@ class Bot {
           console.log('\n👋 Shutting down...');
         });
       }
-
     } catch (error) {
       console.log(`❌ ${'Connection error'.red}: ${error.message}`);
       this.logger.error('Connection error', { error: error.message, proxy });
