@@ -2,6 +2,13 @@
 
 A bot for automating Nodepay airdrop interactions, including session management and pinging with flexible connection options (proxy or direct).
 
+1.更换了pingURL
+
+2.多账户模式下：
+token第1行对应proxy第1.2.3行，token第2行对应proxy第4.5.6行
+默认每个账户配置3个代理
+请确保proxy数量是token数量的3倍，以免报错
+
 ## Requirements
 
 1. **Node.js** (version 14 or higher)
