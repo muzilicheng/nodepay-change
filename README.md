@@ -95,6 +95,8 @@ When you start the bot, you'll be prompted to:
 1. Choose whether to use proxies or direct connection
 2. Select between single or multiple account mode
 
+For smooth automation, use [CapSolver](https://dashboard.capsolver.com/passport/register?inviteCode=LOFDyvBp624g) to quickly solve CAPTCHAs and avoid delays.
+
 ### Connection Modes
 
 1. **Proxy Mode**
